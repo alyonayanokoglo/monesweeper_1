@@ -27,7 +27,7 @@ html, body {
 }
 
 body {
-  font-family: montserrat,
+  font-family: 'Montserrat',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -132,7 +132,7 @@ body > * {
 
 .game-title {
   color: var(--primary-color);
-  font-family: montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   font-weight: bold;
   margin-top: -10px;
@@ -162,7 +162,7 @@ body > * {
 .difficulty-tab {
   background: #324BFF;
   color: var(--primary-color);
-  font-family: montserrat;
+  font-family: 'Montserrat', sans-serif;
   border: none;
   padding: 15px 50px;
   border-radius: 50px;
@@ -183,7 +183,7 @@ body > * {
 .difficulty-tab.active {
   background: #7B8AFF;
   color: #ffffff;
-  font-family: montserrat;
+  font-family: 'Montserrat', sans-serif;
   box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
 }
 
